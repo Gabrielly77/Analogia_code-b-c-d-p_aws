@@ -2,6 +2,9 @@
 
 🎮✨ BORA PRA ANALOGIA GAMER RPG AWS DEVOPS STYLE™:
 
+![image](https://github.com/user-attachments/assets/5b286da0-ed48-4c0f-8f07-612a6967be3d)
+
+
 Imagina que você e sua party estão numa missão no mundo da AWS. ⚔️🛡️🌎
 O objetivo? Derrotar o boss chamado "Deploy Manual das Trevas" e salvar o reino da produtividade!
 
